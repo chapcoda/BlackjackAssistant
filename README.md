@@ -1,4 +1,4 @@
-#Blackjack Strategy Trainer
+###Blackjack Strategy Trainer
 
 A browser-based Blackjack Strategy Trainer that combines a complete playable game with a real-time statistical analysis engine. Built to help players understand not just *what* the optimal play is — but *why*, backed by simulated data.
 
